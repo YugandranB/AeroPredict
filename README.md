@@ -11,37 +11,4 @@ Aero-Predict is an AI-powered tool that predicts the **drag coefficient (Cd)** o
 ✔ **Machine Learning Model** - Trained using **RandomForestRegressor** for high accuracy.  
 ✔ **Gradio UI** - Simple and interactive web app for easy usage.  
 
-## 🔧 Installation & Usage
-1️⃣ **Clone the repository**  
-```sh
-git clone https://github.com/your-repo/Aero-Predict.git
-cd Aero-Predict
-2️⃣ Install dependencies
 
-sh
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run the Gradio App
-
-sh
-Copy
-Edit
-python app.py
-4️⃣ Upload a 3D model and get Cd predictions instantly! 🚀
-
-📽️ Demo Video
-
-
-🔮 Future Enhancements
-✅ Deep Learning Model Integration
-✅ Support for Additional 3D Formats (e.g., GLB, FBX)
-✅ More Advanced 3D Visualizations
-📞 Contact
-For any queries, reach out via GitHub Issues.
-
-vbnet
-Copy
-Edit
-
-This keeps it **clean and to the point**! 🚀 Let me know if you need any tweaks.
