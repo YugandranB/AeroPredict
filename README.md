@@ -12,3 +12,14 @@ Aero-Predict is an AI-powered tool that predicts the **drag coefficient (Cd)** o
 ✔ **Gradio UI** - Simple and interactive web app for easy usage.  
 
 
+## 📽️ Demo Video  
+[![Watch the Demo](https://img.youtube.com/vi/1UnZwTN2xmN6JU8S6PtiYloK1PK9VDejZ/0.jpg)](https://drive.google.com/file/d/1UnZwTN2xmN6JU8S6PtiYloK1PK9VDejZ/view?usp=sharing)  
+
+## 🔮 Future Enhancements
+- ✅ **Deep Learning Model Integration**  
+- ✅ **Support for Additional 3D Formats** (e.g., GLB, FBX)  
+- ✅ **More Advanced 3D Visualizations**  
+
+## 📞 Contact  
+For any queries, reach out via [GitHub Issues](https://github.com/your-repo/Aero-Predict/issues).  
+
