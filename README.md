@@ -63,11 +63,15 @@ Aero-Predict operates on a streamlined, multi-stage pipeline that transforms raw
 ├── README.md                          # Project documentation
 └── requirements.txt                   # Python dependencies
 
+
+---
+
 ## 🔮 Future Enhancements
 - ✅ **Deep Learning Integration** – Explore 3D CNNs and PointNet for direct mesh-based predictions  
 - ✅ **Expanded 3D Format Support** – Add compatibility for formats like `.GLB`, `.GLTF`, and `.FBX`  
 - ✅ **Advanced 3D Visualizations** – Introduce drag/pressure heatmaps and improved mesh interaction tools  
 - 🚧 **API Development** – Build a FastAPI backend for integration with external tools and CAD software  
+---
 
 ## 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
