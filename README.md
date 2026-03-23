@@ -13,8 +13,8 @@
 ## 📽️ Interactive Demo
 See Aero-Predict in action. The tool visualizes the mesh, calculates geometric properties, and outputs the predicted $C_d$ in seconds.
 
-https://github.com/YugandranB/AeroPredict/raw/main/assets/Screen%20Recording.mp4
 
+https://github.com/user-attachments/assets/48e8113f-14ee-4d2f-8adf-6b8004fe0772
 
 ---
 
