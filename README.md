@@ -62,8 +62,7 @@ Aero-Predict operates on a streamlined, multi-stage pipeline that transforms raw
 ├── LICENSE                            # MIT License file
 ├── README.md                          # Project documentation
 └── requirements.txt                   # Python dependencies
-
-text'''
+```
 ---
 
 ## 🔮 Future Enhancements
