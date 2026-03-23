@@ -4,7 +4,12 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Gradio UI](https://img.shields.io/badge/UI-Gradio-orange.svg)](https://gradio.app/)
 
-Aero-Predict is a machine learning–based pipeline that streamlines aerodynamic evaluation from 3D geometry. It extracts high-dimensional features from .obj and .stl files and uses a trained Random Forest Regressor to estimate the drag coefficient ($C_d$) in real time. This eliminates the need for costly and time-intensive CFD simulations during preliminary design iterations, accelerating the development cycle.
+**Aero-Predict** is an **AI-driven pipeline** that bridges **3D design** and **aerodynamic analysis**.  
+It extracts **high-dimensional geometric features** from `.obj` and `.stl` files and uses a  
+**Random Forest Regressor** to predict the **drag coefficient ($C_d$)** instantly.  
+
+This eliminates the need for **computationally expensive CFD simulations**, enabling  
+**faster**, **efficient**, and **scalable early-stage design evaluation**.
 
 This project empowers mechanical engineers, automotive designers, and hobbyists to rapidly iterate on designs without the immediate computational overhead and time constraints of complex CFD (Computational Fluid Dynamics) simulations.
 
