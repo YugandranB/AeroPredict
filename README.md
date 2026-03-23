@@ -13,9 +13,10 @@
 ## 📽️ Interactive Demo
 See Aero-Predict in action. The tool visualizes the mesh, calculates geometric properties, and outputs the predicted $C_d$ in seconds.
 
-https://github.com/user-attachments/assets/ef8849b2-2977-47b6-94e8-42289c09c733
+<video src="https://github.com/YugandranB/AeroPredict/raw/main/assets/Screen%20Recording.mp4" width="100%" controls="controls" muted="muted" playsinline="playsinline" autoplay="autoplay" loop="loop">
+  Your browser does not support the video tag.
+</video>
 
----
 ---
 
 ## ✨ Features
@@ -37,14 +38,9 @@ https://github.com/user-attachments/assets/ef8849b2-2977-47b6-94e8-42289c09c733
 
 ---
 
-
 ## 🔮 Future Enhancements
-- ✅ **Deep Learning Model Integration**  
-- ✅ **Support for Additional 3D Formats** (e.g., GLB, FBX)  
+- ✅ **Deep Learning Model Integration** - ✅ **Support for Additional 3D Formats** (e.g., GLB, FBX)  
 - ✅ **More Advanced 3D Visualizations**
 
 ## 📜 License  
-This project is licensed under the [MIT License](LICENSE).  
-
-
-
+This project is licensed under the [MIT License](LICENSE).
