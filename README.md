@@ -5,7 +5,8 @@
 [![Gradio UI](https://img.shields.io/badge/UI-Gradio-orange.svg)](https://gradio.app/)
 
 
-**Aero-Predict** is an AI-driven pipeline that bridges the gap between 3D design and aerodynamic analysis. By extracting high-dimensional geometric features from .obj and .stl files, the system leverages a trained **Random Forest Regressor** to instantly predict the **drag coefficient ($C_d$)**. This approach significantly reduces reliance on computationally expensive CFD (Computational Fluid Dynamics) simulations, enabling faster and more efficient evaluation during the early stages of design.
+**Aero-Predict** is an AI-driven pipeline that bridges the gap between 3D design and aerodynamic analysis. 
+By extracting high-dimensional geometric features from .obj and .stl files, the system leverages a trained **Random Forest Regressor** to instantly predict the **drag coefficient ($C_d$)**. This approach significantly reduces reliance on computationally expensive CFD (Computational Fluid Dynamics) simulations, enabling faster and more efficient evaluation during the early stages of design.
 
 This project empowers mechanical engineers, automotive designers, and hobbyists to rapidly iterate on designs without the immediate computational overhead and time constraints of complex CFD (Computational Fluid Dynamics) simulations.
 
